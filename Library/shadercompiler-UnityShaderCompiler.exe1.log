@@ -1,0 +1,6 @@
+Base path: C:/Program Files/UnityNew3DS_2_0_1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=16 type=0 insize=4894 outsize=1935 kw=SPOT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=16 type=0 insize=6769 outsize=500 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_COLORSPACE_GAMMA ok=1
